@@ -41,4 +41,16 @@ while isku != "exit":
         print('\n')
         plink = 'www.beautybigbang.com/products/' + line[0]
         print(plink)
+        f.write(ptitle + "." + "@" + pblogger + lb)
+        f.write('\n')
+        f.write('$' + pprice + ' ' + 'Free worldwide shipping!')
+        f.write('\n')
+        f.write('Click the picture to buy!')
+        f.write('\n')
+        f.write('#' + isku + ' ' + '#' + "BeautyBigBangCom")
+        f.write('\n')
+        plink = 'www.beautybigbang.com/products/' + line[0]
+        f.write(plink)
+        f.write('\n')
+        f.write('\n')
         f.close()
