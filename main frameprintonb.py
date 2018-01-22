@@ -28,7 +28,7 @@ while isku != "exit":
         f = open("post.txt", "a")
         print(ptitle + "." + "@" + pblogger + lb)
         print('$' + pprice + ' ' + 'Free worldwide shipping!')
-        print("View more: "+plink)
+        print("View more>>> "+plink)
         print('#' + isku + ' ' + '#' + "BeautyBigBangCom")
         print('\n')
         f.close()
