@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7ca86a46-bed4-4a84-95e5-a0fc5eca250d" name="Default" comment="" />
+    <list default="true" id="7ca86a46-bed4-4a84-95e5-a0fc5eca250d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/post.txt" afterPath="$PROJECT_DIR$/post.txt" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +36,8 @@
       <file leaf-file-name="hicollie.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hicollie.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="532">
-              <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+            <state relative-caret-position="280">
+              <caret line="57" column="63" lean-forward="false" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
               <folding />
             </state>
           </provider>
@@ -430,8 +432,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hicollie.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="64" column="22" lean-forward="true" selection-start-line="64" selection-start-column="22" selection-end-line="64" selection-end-column="22" />
+        <state relative-caret-position="280">
+          <caret line="57" column="63" lean-forward="false" selection-start-line="57" selection-start-column="63" selection-end-line="57" selection-end-column="63" />
           <folding />
         </state>
       </provider>
