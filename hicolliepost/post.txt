@@ -1,0 +1,4 @@
+There is also something different for this code.
+Hicollie post is based on the product itself, it won't have a referal link.
+
+So it is based on a single CSV file. But more complex.
