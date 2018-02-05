@@ -22,7 +22,7 @@ while ihandle != "exit":
         print(ptitle + ".")
         print('$' + pprice + ' ' + 'Free 5-7days delivery!')
         print("View more>>> "+plink)
-        print('#' + ihandle + ' ' + '#' + "hicollieCom")
+        print('#' + psku + ' ' + '#' + "hicollieCom")
         print('\n')
         f.write(ptitle + ".")
         f.write('\n')

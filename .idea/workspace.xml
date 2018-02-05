@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ca86a46-bed4-4a84-95e5-a0fc5eca250d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/hicolliepost/hicollie post with print.py" afterPath="$PROJECT_DIR$/hicolliepost/hicollie post with print.py" />
       <change beforePath="$PROJECT_DIR$/hicolliepost/post.txt" afterPath="$PROJECT_DIR$/hicolliepost/post.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +18,8 @@
       <file leaf-file-name="hicollie post with print.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hicolliepost/hicollie post with print.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            <state relative-caret-position="606">
+              <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
               <folding />
             </state>
           </provider>
@@ -30,6 +32,7 @@
       <find>f.write</find>
       <find>isku</find>
       <find>beautybigbang</find>
+      <find>ihandle</find>
     </findStrings>
     <replaceStrings>
       <replace>print</replace>
@@ -489,8 +492,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hicolliepost/hicollie post with print.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        <state relative-caret-position="606">
+          <caret line="20" column="33" lean-forward="true" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
           <folding />
         </state>
       </provider>
