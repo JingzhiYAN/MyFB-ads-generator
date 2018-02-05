@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7ca86a46-bed4-4a84-95e5-a0fc5eca250d" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/hicollie.py" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/hicolliepost/Hicolliepost.py" afterPath="" />
       <change beforePath="$PROJECT_DIR$/hicolliepost/post.txt" afterPath="$PROJECT_DIR$/hicolliepost/post.txt" />
-      <change beforePath="$PROJECT_DIR$/post.txt" afterPath="$PROJECT_DIR$/post.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -20,8 +16,8 @@
       <file leaf-file-name="hicollie post with print.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/hicolliepost/hicollie post with print.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1080">
-              <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+            <state relative-caret-position="288">
+              <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -55,8 +51,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="298" />
-    <option name="y" value="281" />
+    <option name="x" value="248" />
+    <option name="y" value="132" />
     <option name="width" value="1370" />
     <option name="height" value="841" />
   </component>
@@ -493,8 +489,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/hicolliepost/hicollie post with print.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1080">
-          <caret line="30" column="44" lean-forward="true" selection-start-line="30" selection-start-column="44" selection-end-line="30" selection-end-column="44" />
+        <state relative-caret-position="288">
+          <caret line="8" column="30" lean-forward="false" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
           <folding />
         </state>
       </provider>
