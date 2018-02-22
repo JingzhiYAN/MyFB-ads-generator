@@ -35,8 +35,6 @@ while isku != "exit":
         f.write('\n')
         f.write('$' + pprice + ' ' + 'Use code ' + 'FOREVERLOVE10' + ' to get another 10% off!!')
         f.write('\n')
-        f.write('Click the picture to buy!')
-        f.write('\n')
         f.write('#' + isku + ' ' + '#' + "BeautyBigBangCom")
         f.write('\n')
         plink = 'www.beautybigbang.com/products/' + line[0]
